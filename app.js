@@ -13,7 +13,7 @@ window.requestAnimFrame = (function () {
 
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
-const customText = urlParams.get('text') || 'IPIK KONTOL';
+const customText = urlParams.get('text') || 'HALLO CANTIKK';
 const space = '                        ';
 const txt = space + customText;
 
